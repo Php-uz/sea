@@ -19,7 +19,7 @@ define('SEA_STARTED_TIME', microtime(true));
  * Bu bilan biz bizga kerakli barcha class larni dasturimizda o'z navbatida chaqiramiz.
  */
 
-require_once("v\autoload.php");
+require_once("vendor\autoload.php");
 
 /****************************
  * Bootstrap
