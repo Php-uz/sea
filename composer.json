@@ -2,7 +2,7 @@
     "name": "water/sea",
     "description": "Powerfull and usefull php framework",
     "type": "framework",
-    "license": "m7studio",
+    "license": "MIT",
     "authors": [
         {
             "name": "Zikrulloh Tolibjonov",
