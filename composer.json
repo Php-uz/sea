@@ -1,0 +1,13 @@
+{
+    "name": "water/sea",
+    "description": "Powerfull and usefull php framework",
+    "type": "framework",
+    "license": "m7studio",
+    "authors": [
+        {
+            "name": "Zikrulloh Tolibjonov",
+            "email": "m7studio@mail.ru"
+        }
+    ],
+    "require": {}
+}
