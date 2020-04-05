@@ -1,7 +1,6 @@
 {
-    "name": "turon/sea",
-    "description": "Powerfull and usefull php framework",
-    "version":"0.1.0-beta",
+    "name": "turon/framework",
+    "description": "Framework sea",
     "type": "framework",
     "license": "MIT",
     "authors": [
@@ -10,7 +9,5 @@
             "email": "m7studio@mail.ru"
         }
     ],
-    "require": {
-        "turon/framework":"*"
-    }
+    "require": {}
 }
